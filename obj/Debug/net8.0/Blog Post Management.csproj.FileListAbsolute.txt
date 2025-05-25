@@ -1,0 +1,55 @@
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\appsettings.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Blog Post Management.exe
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Blog Post Management.deps.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Blog Post Management.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Blog Post Management.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Blog Post Management.pdb
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets\msbuild.Blog Post Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Blog Post Management.props
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog Post Management.props
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog Post Management.props
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\scopedcss\bundle\Blog Post Management.styles.css
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Pos.B19D1995.Up2Date
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\refint\Blog Post Management.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.pdb
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\Blog Post Management.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\obj\Debug\net8.0\ref\Blog Post Management.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sebas\OneDrive\Documents\Internship\novatech\projects\Blog Post Management\Blog Post Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
